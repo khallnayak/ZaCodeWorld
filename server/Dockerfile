@@ -1,5 +1,6 @@
 FROM pg:1.0
 
+MAINTAINER "Mahij Momin<mahijmomin@gmail.com>"
 
 
 WORKDIR /workdir
